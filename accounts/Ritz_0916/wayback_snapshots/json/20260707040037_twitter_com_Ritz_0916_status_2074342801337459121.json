@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2073960528373022873",
+    "created_at": "2026-07-07T04:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074342801337459121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1998751032650969088",
+          "start": 0,
+          "username": "Fox_Sakura233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074342801337459121",
+    "in_reply_to_user_id": "1998751032650969088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073960528373022873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fox_Sakura233 吃点rc吧……这日美也太贵了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1187,
+        "media_key": "3_2073960512589910016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgwGQ8b0AASisw.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2073960528373022873",
+        "created_at": "2026-07-07T04:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074342801337459121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1998751032650969088",
+              "start": 0,
+              "username": "Fox_Sakura233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074342801337459121",
+        "in_reply_to_user_id": "1998751032650969088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073960528373022873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fox_Sakura233 吃点rc吧……这日美也太贵了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073960512589910016"
+          ]
+        },
+        "author_id": "1998751032650969088",
+        "conversation_id": "2073960528373022873",
+        "created_at": "2026-07-06T02:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073960528373022873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o8m7bkpeeY",
+              "end": 29,
+              "expanded_url": "https://x.com/Fox_Sakura233/status/2073960528373022873/photo/1",
+              "media_key": "3_2073960512589910016",
+              "start": 6,
+              "url": "https://t.co/o8m7bkpeeY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073960528373022873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5001,
+          "like_count": 51,
+          "quote_count": 6,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快200了 https://t.co/o8m7bkpeeY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 1110,
+          "like_count": 10235,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1160
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T13:46:18.000Z",
+        "description": "02 | ♂ |リスカ| OD | 病み垢 | 去勢済み | くず\n | 希死念慮 | 情緒不安定 |ZH/EN/JP|\n精神活性物質Wiki：https://t.co/XzFTNu4ouS｜本人发布的内容很危险，请合理使用，小心成瘾问题",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 95,
+                "expanded_url": "https://jile.bid/",
+                "start": 72,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          }
+        },
+        "id": "1998751032650969088",
+        "name": "sakura👾",
+        "pinned_tweet_id": "2069373938770256251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 567,
+          "like_count": 738,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 445
+        },
+        "url": "https://t.co/XzFTNu4ouS",
+        "username": "Fox_Sakura233",
+        "verified": false
+      }
+    ]
+  }
+}

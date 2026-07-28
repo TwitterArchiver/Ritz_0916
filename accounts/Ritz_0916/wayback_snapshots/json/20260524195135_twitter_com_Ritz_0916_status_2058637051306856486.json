@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2049121778166038929",
+    "created_at": "2026-05-24T19:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T20:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058637051306856486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987868389709422593",
+          "start": 0,
+          "username": "ruki52621534059"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058637051306856486",
+    "in_reply_to_user_id": "1987868389709422593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049121778166038929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruki52621534059 在陪了在陪了🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47244,
+        "height": 1280,
+        "media_key": "7_2049121689448136704",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2049121689448136704/pu/img/tVQEbF2po57twaey.jpg",
+        "public_metrics": {
+          "view_count": 143
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049121689448136704/pu/vid/avc1/320x568/9BRBgVkibO9ffBR6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049121689448136704/pu/vid/avc1/480x852/iyKOVEqg-mA4Y4Ud.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049121689448136704/pu/vid/avc1/720x1280/fUgY26PaHOjYdJ59.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2049121689448136704/pu/pl/ARFCcmdYBYtT1AKN.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2049121778166038929",
+        "created_at": "2026-05-24T19:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T20:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058637051306856486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987868389709422593",
+              "start": 0,
+              "username": "ruki52621534059"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058637051306856486",
+        "in_reply_to_user_id": "1987868389709422593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049121778166038929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruki52621534059 在陪了在陪了🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2049121689448136704"
+          ]
+        },
+        "author_id": "1987868389709422593",
+        "conversation_id": "2049121778166038929",
+        "created_at": "2026-04-28T13:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049121778166038929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2ic0G8RcI",
+              "end": 30,
+              "expanded_url": "https://x.com/ruki52621534059/status/2049121778166038929/video/1",
+              "media_key": "7_2049121689448136704",
+              "start": 7,
+              "url": "https://t.co/J2ic0G8RcI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049121778166038929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 531,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "陪我抽根烟吧 https://t.co/J2ic0G8RcI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 1049,
+          "like_count": 8821,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 947
+        },
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T13:02:21.000Z",
+        "description": "今は愛を探すよ、もともと私を愛するようきみたち人。 可以叫我人类或者ヒト。 重力系顺男| 阴暗系 | 友跨丨消肿且老资历 | 中文 English 日本語  |傻逼 |INFP | ADHD| 亚文化 二次元 视觉系 摇滚 音游 文艺 地偶 说唱 电子音乐 大好き | \n来这里是为了乱说话，看萌萌的东西和交朋友的！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/demon74844",
+                "end": 23,
+                "expanded_url": "https://ngl.link/demon74844",
+                "start": 0,
+                "url": "https://t.co/E0GfgZDTgS"
+              }
+            ]
+          }
+        },
+        "id": "1987868389709422593",
+        "location": "大海深处没有阳光的地方",
+        "name": "人間が好き",
+        "pinned_tweet_id": "2049121778166038929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009663639071191040/0KKOfsmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 133,
+          "like_count": 11956,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 1865
+        },
+        "url": "https://t.co/E0GfgZDTgS",
+        "username": "ruki52621534059",
+        "verified": false
+      }
+    ]
+  }
+}

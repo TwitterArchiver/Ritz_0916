@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2063534297466982578",
+    "created_at": "2026-06-07T13:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063608057301717004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727277830025973760",
+          "start": 0,
+          "username": "yuriano3479"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063608057301717004",
+    "in_reply_to_user_id": "1727277830025973760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063534297466982578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuriano3479 好帅好美🥺😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2063534266898903040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMle5Ba8AANbVt.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2063534297466982578",
+        "created_at": "2026-06-07T13:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063608057301717004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727277830025973760",
+              "start": 0,
+              "username": "yuriano3479"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063608057301717004",
+        "in_reply_to_user_id": "1727277830025973760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063534297466982578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuriano3479 好帅好美🥺😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063534266898903040"
+          ]
+        },
+        "author_id": "1727277830025973760",
+        "conversation_id": "2063534297466982578",
+        "created_at": "2026-06-07T08:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063534297466982578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZHWVP5Zrm",
+              "end": 35,
+              "expanded_url": "https://x.com/yuriano3479/status/2063534297466982578/photo/1",
+              "media_key": "3_2063534266898903040",
+              "start": 12,
+              "url": "https://t.co/TZHWVP5Zrm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063534297466982578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 994,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我今天真的努力了… ！ https://t.co/TZHWVP5Zrm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 1085,
+          "like_count": 9484,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1036
+        },
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T10:48:32.000Z",
+        "description": "我是优理。我喜欢猫和烟 喜欢我就请关注吧^什么都发｜中文/日本語/Eng｜不回复dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/8020909Yo7hsb",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/8020909Yo7hsb",
+                "start": 0,
+                "url": "https://t.co/dUGLHyy8uQ"
+              }
+            ]
+          }
+        },
+        "id": "1727277830025973760",
+        "location": "天国",
+        "name": "yuriiano",
+        "pinned_tweet_id": "2061472896267300951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037149597009928198/mPcUl3UR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 372,
+          "like_count": 5608,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 1780
+        },
+        "url": "https://t.co/dUGLHyy8uQ",
+        "username": "yuriano3479",
+        "verified": false
+      }
+    ]
+  }
+}

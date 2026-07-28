@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2074129606731538859",
+    "created_at": "2026-07-07T07:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074389201974665370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3879124573",
+          "start": 0,
+          "username": "xiuxiukong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074389201974665370",
+    "in_reply_to_user_id": "3879124573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074129606731538859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiuxiukong 很美丽……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2074129606731538859",
+        "created_at": "2026-07-07T07:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074389201974665370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3879124573",
+              "start": 0,
+              "username": "xiuxiukong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074389201974665370",
+        "in_reply_to_user_id": "3879124573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074129606731538859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiuxiukong 很美丽……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3879124573",
+        "conversation_id": "2074129606731538859",
+        "created_at": "2026-07-06T13:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074129606731538859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074129606731538859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 23662,
+          "like_count": 827,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "不知道为什么，我发一些带血的照片经常被人骂，也不是第一次有人骂我杀人犯，但有的辱骂挺让我恼火的。\n是因为我的照片里面的血太真实了吗？为什么真实？因为我就喜欢研究这些啊，作为恐怖片爱好者研究各种血液喷溅流淌干涸的状态，我喜欢让照片里的东西看起来像真的一样，而不是假的让人出戏。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 1114,
+          "like_count": 10282,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1166
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-13T09:16:36.000Z",
+        "description": "📷photographer/ins：xiuxiukong \n小红书：西游朽/xiuxiukong\n\nxiuxiukong123@163.com",
+        "id": "3879124573",
+        "location": "People's Republic of China",
+        "name": "西游朽",
+        "pinned_tweet_id": "1792908191627698287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456348724620595200/3tkn_kxA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254637,
+          "following_count": 303,
+          "like_count": 685,
+          "listed_count": 1121,
+          "media_count": 321,
+          "tweet_count": 488
+        },
+        "url": "",
+        "username": "xiuxiukong",
+        "verified": false
+      }
+    ]
+  }
+}

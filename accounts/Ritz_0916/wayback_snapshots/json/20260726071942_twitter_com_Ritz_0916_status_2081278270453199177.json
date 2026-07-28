@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2081221978330149055",
+    "created_at": "2026-07-26T07:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T08:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081278270453199177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1417099624922370056",
+          "start": 0,
+          "username": "XinGZiSaMa_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081278270453199177",
+    "in_reply_to_user_id": "1417099624922370056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081221978330149055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XinGZiSaMa_8964 大神啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081221942842187776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOH8VInbYAAc6Wu.jpg",
+        "width": 1538
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2081221942821187584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOH8VIia8AAyptm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081221942854750208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOH8VIqbEAAqyzh.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081221942821191680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOH8VIibAAA1cJV.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2081221978330149055",
+        "created_at": "2026-07-26T07:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081278270453199177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1417099624922370056",
+              "start": 0,
+              "username": "XinGZiSaMa_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081278270453199177",
+        "in_reply_to_user_id": "1417099624922370056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081221978330149055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XinGZiSaMa_8964 大神啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081221942842187776",
+            "3_2081221942821187584",
+            "3_2081221942854750208",
+            "3_2081221942821191680"
+          ]
+        },
+        "author_id": "1417099624922370056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081221978330149055",
+        "created_at": "2026-07-26T03:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081221978330149055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WxfdzzCFyQ",
+              "end": 29,
+              "expanded_url": "https://x.com/XinGZiSaMa_8964/status/2081221978330149055/photo/1",
+              "media_key": "3_2081221942842187776",
+              "start": 6,
+              "url": "https://t.co/WxfdzzCFyQ"
+            },
+            {
+              "display_url": "pic.x.com/WxfdzzCFyQ",
+              "end": 29,
+              "expanded_url": "https://x.com/XinGZiSaMa_8964/status/2081221978330149055/photo/1",
+              "media_key": "3_2081221942821187584",
+              "start": 6,
+              "url": "https://t.co/WxfdzzCFyQ"
+            },
+            {
+              "display_url": "pic.x.com/WxfdzzCFyQ",
+              "end": 29,
+              "expanded_url": "https://x.com/XinGZiSaMa_8964/status/2081221978330149055/photo/1",
+              "media_key": "3_2081221942854750208",
+              "start": 6,
+              "url": "https://t.co/WxfdzzCFyQ"
+            },
+            {
+              "display_url": "pic.x.com/WxfdzzCFyQ",
+              "end": 29,
+              "expanded_url": "https://x.com/XinGZiSaMa_8964/status/2081221978330149055/photo/1",
+              "media_key": "3_2081221942821191680",
+              "start": 6,
+              "url": "https://t.co/WxfdzzCFyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081221978330149055",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舞萌，好玩 https://t.co/WxfdzzCFyQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 1122,
+          "like_count": 10779,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1226
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T12:31:06.000Z",
+        "description": "😈😈我是恶魔嘻嘻嘻｜男高｜友跨｜koishi激推｜电吉他学习ing｜Guns N' Roses｜不od｜不自残｜没双相｜日语学习中｜喜欢猫｜互fo请私信喵",
+        "id": "1417099624922370056",
+        "location": "天堂",
+        "name": "性子sama🐾🎸",
+        "pinned_tweet_id": "2080936502813667648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010818938666733568/mI3QBzcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 459,
+          "like_count": 56169,
+          "listed_count": 3,
+          "media_count": 1627,
+          "tweet_count": 10378
+        },
+        "url": "",
+        "username": "XinGZiSaMa_8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2062847177605726635",
+    "created_at": "2026-06-06T15:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063287446113280143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699282628560748544",
+          "start": 0,
+          "username": "tingkawayi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063287446113280143",
+    "in_reply_to_user_id": "1699282628560748544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062847177605726635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tingkawayi 好好看……🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1601,
+        "media_key": "3_2062847168411824128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC0kfsbcAAX2pJ.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2062847177605726635",
+        "created_at": "2026-06-06T15:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063287446113280143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699282628560748544",
+              "start": 0,
+              "username": "tingkawayi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063287446113280143",
+        "in_reply_to_user_id": "1699282628560748544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062847177605726635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingkawayi 好好看……🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062847168411824128"
+          ]
+        },
+        "author_id": "1699282628560748544",
+        "conversation_id": "2062847177605726635",
+        "created_at": "2026-06-05T10:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062847177605726635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZWHerB53hB",
+              "end": 69,
+              "expanded_url": "https://x.com/tingkawayi/status/2062847177605726635/photo/1",
+              "media_key": "3_2062847168411824128",
+              "start": 46,
+              "url": "https://t.co/ZWHerB53hB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062847177605726635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 27347,
+          "like_count": 602,
+          "quote_count": 1,
+          "reply_count": 73,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "这就是男孩子留长头发的优势，用将近20年的寸头换来现在的发量惊人，从后面看像瀑黑布一样hh https://t.co/ZWHerB53hB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1075,
+          "like_count": 9293,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1005
+        },
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T04:45:33.000Z",
+        "description": "啊这啊这，有没有人帮我想简介，我的大脑过载了🥺",
+        "id": "1699282628560748544",
+        "location": "河南洛阳",
+        "name": "町🍥",
+        "pinned_tweet_id": "1821397083192262726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018304464911028224/k-Z0w2qM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8334,
+          "following_count": 567,
+          "like_count": 361,
+          "listed_count": 12,
+          "media_count": 106,
+          "tweet_count": 865
+        },
+        "username": "tingkawayi",
+        "verified": false
+      }
+    ]
+  }
+}

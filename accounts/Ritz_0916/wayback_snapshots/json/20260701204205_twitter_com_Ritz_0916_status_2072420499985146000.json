@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2071933885710221448",
+    "created_at": "2026-07-01T20:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T21:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072420499985146000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1471440753645793286",
+          "start": 0,
+          "username": "MuyumeKiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072420499985146000",
+    "in_reply_to_user_id": "1471440753645793286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071933885710221448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuyumeKiki 我草啊……什么傻逼原神家庭。摸摸老大🥺希望逃离顺利🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2071933751693647872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD8xQPXoAAOp6Z.jpg",
+        "width": 3056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2071933885710221448",
+        "created_at": "2026-07-01T20:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T21:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072420499985146000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1471440753645793286",
+              "start": 0,
+              "username": "MuyumeKiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072420499985146000",
+        "in_reply_to_user_id": "1471440753645793286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071933885710221448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuyumeKiki 我草啊……什么傻逼原神家庭。摸摸老大🥺希望逃离顺利🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071933751693647872"
+          ]
+        },
+        "author_id": "1471440753645793286",
+        "conversation_id": "2071933885710221448",
+        "created_at": "2026-06-30T12:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071933885710221448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wf6S7ehZx2",
+              "end": 135,
+              "expanded_url": "https://x.com/MuyumeKiki/status/2071933885710221448/photo/1",
+              "media_key": "3_2071933751693647872",
+              "start": 112,
+              "url": "https://t.co/wf6S7ehZx2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071933885710221448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1809,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今天心理咨询到一半我爹大吵一番大街上打我妈的人类都好冷漠明天准备跑路这个狗屎家庭拜拜了我妈还咒我不知道是被打了咳血还是本身身体不好一激动就，说我绝对不是肺结核我打了疫苗的，说希望是肺癌，卧槽泥马没钱老子也跑路，滚吧原生家庭 https://t.co/wf6S7ehZx2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 1093,
+          "like_count": 10069,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1134
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T11:23:16.000Z",
+        "description": "你好我是无梦木纪！可以叫我kiki٩( 'ω' )و \n开学日低浮上/自伤/欢迎交友/玻璃心，手抖转帖评论点赞关注不代表个人立场，我求你们了能不能不要单取我玻璃心，会查成分互关🙌",
+        "id": "1471440753645793286",
+        "location": "鸽子星",
+        "name": "無夢木紀（低浮上）",
+        "pinned_tweet_id": "2072379207200780495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069511680644808704/IUY3N11X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2604,
+          "following_count": 678,
+          "like_count": 16468,
+          "listed_count": 8,
+          "media_count": 1045,
+          "tweet_count": 14259
+        },
+        "url": "",
+        "username": "MuyumeKiki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2059331599515455899",
+    "created_at": "2026-05-26T17:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059331599515455899"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "ᎷӀᎡᎪ #蒭藁增二’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1DGle…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1DGleeVnyEEJL",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2059328815344865280/JqSt-rOT?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2059328815344865280/JqSt-rOT?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 等药效睡觉",
+          "unwound_url": "https://twitter.com/i/spaces/1DGleeVnyEEJL/peek",
+          "url": "https://t.co/MngEcPWXq4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059331599515455899",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/MngEcPWXq4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2059331599515455899",
+        "created_at": "2026-05-26T17:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059331599515455899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ᎷӀᎡᎪ #蒭藁增二’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1DGle…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1DGleeVnyEEJL",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2059328815344865280/JqSt-rOT?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059328815344865280/JqSt-rOT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 等药效睡觉",
+              "unwound_url": "https://twitter.com/i/spaces/1DGleeVnyEEJL/peek",
+              "url": "https://t.co/MngEcPWXq4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059331599515455899",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MngEcPWXq4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 1053,
+          "like_count": 8832,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 950
+        },
+        "username": "Ritz_0916",
+        "verified": false
+      }
+    ]
+  }
+}

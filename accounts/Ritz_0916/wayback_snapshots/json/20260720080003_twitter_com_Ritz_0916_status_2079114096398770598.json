@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079114082112970752",
+        "3_2079114089817833472"
+      ]
+    },
+    "author_id": "1884587143282171904",
+    "conversation_id": "2079114096398770598",
+    "created_at": "2026-07-20T08:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T09:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079114096398770598"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sljx40IV6G",
+          "end": 35,
+          "expanded_url": "https://x.com/Ritz_0916/status/2079114096398770598/photo/1",
+          "media_key": "3_2079114082112970752",
+          "start": 12,
+          "url": "https://t.co/Sljx40IV6G"
+        },
+        {
+          "display_url": "pic.x.com/Sljx40IV6G",
+          "end": 35,
+          "expanded_url": "https://x.com/Ritz_0916/status/2079114096398770598/photo/1",
+          "media_key": "3_2079114089817833472",
+          "start": 12,
+          "url": "https://t.co/Sljx40IV6G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079114096398770598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人在医院感受阴阴的天。 https://t.co/Sljx40IV6G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2079114082112970752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNp_PffbIAARaEo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079114089817833472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNp_P8MaAAA1vKO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079114082112970752",
+            "3_2079114089817833472"
+          ]
+        },
+        "author_id": "1884587143282171904",
+        "conversation_id": "2079114096398770598",
+        "created_at": "2026-07-20T08:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079114096398770598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sljx40IV6G",
+              "end": 35,
+              "expanded_url": "https://x.com/Ritz_0916/status/2079114096398770598/photo/1",
+              "media_key": "3_2079114082112970752",
+              "start": 12,
+              "url": "https://t.co/Sljx40IV6G"
+            },
+            {
+              "display_url": "pic.x.com/Sljx40IV6G",
+              "end": 35,
+              "expanded_url": "https://x.com/Ritz_0916/status/2079114096398770598/photo/1",
+              "media_key": "3_2079114089817833472",
+              "start": 12,
+              "url": "https://t.co/Sljx40IV6G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079114096398770598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人在医院感受阴阴的天。 https://t.co/Sljx40IV6G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 1115,
+          "like_count": 10519,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1208
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      }
+    ]
+  }
+}

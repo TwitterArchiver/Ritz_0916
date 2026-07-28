@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2077241398609539507",
+    "created_at": "2026-07-15T06:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077283883230572873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        },
+        {
+          "end": 22,
+          "id": "1510601261019631618",
+          "start": 10,
+          "username": "kujirarara_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077283883230572873",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077254382522085494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet @kujirarara_ 我草🤯🤯这是为什么……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1204,
+        "media_key": "3_2077254365325463552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPj1ulakAACXMo.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2077241398609539507",
+        "created_at": "2026-07-15T06:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077283883230572873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            },
+            {
+              "end": 22,
+              "id": "1510601261019631618",
+              "start": 10,
+              "username": "kujirarara_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077283883230572873",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077254382522085494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet @kujirarara_ 我草🤯🤯这是为什么……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077254365325463552"
+          ]
+        },
+        "author_id": "1499442786453663745",
+        "conversation_id": "2077241398609539507",
+        "created_at": "2026-07-15T04:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077254382522085494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510601261019631618",
+              "start": 0,
+              "username": "kujirarara_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9frM6BMlk3",
+              "end": 41,
+              "expanded_url": "https://x.com/Ted_yeet/status/2077254382522085494/photo/1",
+              "media_key": "3_2077254365325463552",
+              "start": 18,
+              "url": "https://t.co/9frM6BMlk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077254382522085494",
+        "in_reply_to_user_id": "1510601261019631618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077249820914540919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujirarara_ 真的有洞 https://t.co/9frM6BMlk3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 1119,
+          "like_count": 10386,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1192
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "神秘旅商/🏳️‍🌈🏳️‍⚧️/姛/brat/毛绒玩具/📸/贝斯/说LaTeX的人形编译器\n有偿SRS咨询请私信 10€/h",
+        "id": "1499442786453663745",
+        "location": "Cantonia",
+        "name": "Ted",
+        "pinned_tweet_id": "2055181133973954997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057063305681002496/0duENI7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6607,
+          "following_count": 1809,
+          "like_count": 55027,
+          "listed_count": 24,
+          "media_count": 553,
+          "tweet_count": 13028
+        },
+        "url": "",
+        "username": "Ted_yeet",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-03T12:53:09.000Z",
+        "description": "可以叫我蓝鲸喵🐳 | Social Democracy | She/Her | MtF | Trans-les | CN/EN/JP | 轨道交通/城市规划/历史研究/日常 | 🩵🩷🤍🩷🩵",
+        "id": "1510601261019631618",
+        "location": "すみだ水族館",
+        "name": "くじら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053860270225895424/t-qcmhuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2838,
+          "following_count": 597,
+          "like_count": 114685,
+          "listed_count": 20,
+          "media_count": 1452,
+          "tweet_count": 7511
+        },
+        "url": "",
+        "username": "kujirarara_",
+        "verified": false
+      }
+    ]
+  }
+}

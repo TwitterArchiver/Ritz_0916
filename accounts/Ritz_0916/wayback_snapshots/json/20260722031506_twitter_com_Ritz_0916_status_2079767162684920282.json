@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2079767162684920282",
+    "created_at": "2026-07-22T03:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079767162684920282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MiraOmicronCet…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/MiraOmicronCeti/status/2079763365908631591",
+          "start": 10,
+          "url": "https://t.co/lzVVkJtDtR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079767162684920282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079763365908631591",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "贴主目前仍在治疗。 https://t.co/lzVVkJtDtR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2079144585302081536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqa_AubgAA-ozz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2079767162684920282",
+        "created_at": "2026-07-22T03:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079767162684920282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MiraOmicronCet…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/MiraOmicronCeti/status/2079763365908631591",
+              "start": 10,
+              "url": "https://t.co/lzVVkJtDtR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079767162684920282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079763365908631591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "贴主目前仍在治疗。 https://t.co/lzVVkJtDtR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079144585302081536"
+          ]
+        },
+        "author_id": "2000386018953101312",
+        "conversation_id": "2079763365908631591",
+        "created_at": "2026-07-22T03:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079763365908631591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RCfbYB0TPw",
+              "end": 175,
+              "expanded_url": "https://x.com/MiraOmicronCeti/status/2079763365908631591/photo/1",
+              "media_key": "3_2079144585302081536",
+              "start": 152,
+              "url": "https://t.co/RCfbYB0TPw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079763365908631591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一则定时推文。\n本号号主，曾用名义湊/Minato, Glennia等，于7月21日凌晨吞服了有毒物质。\n对此本人希望向近几日以及平素关心本人状况的各位由衷地道歉。很幸运能遇到这么多很好的朋友，一直以来承蒙各位的关照真的十分感谢。\n顺便，正好是两年前的今天把头发理成了这样形状的挑染蓝毛，我很喜欢。 https://t.co/RCfbYB0TPw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 1114,
+          "like_count": 10628,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1212
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "name": "ᎷӀᎡᎪ #蒭藁增二",
+        "pinned_tweet_id": "2069076461810794794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052875697958559744/YFtatxSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 246,
+          "like_count": 6480,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 688
+        },
+        "url": "",
+        "username": "MiraOmicronCeti",
+        "verified": false
+      }
+    ]
+  }
+}

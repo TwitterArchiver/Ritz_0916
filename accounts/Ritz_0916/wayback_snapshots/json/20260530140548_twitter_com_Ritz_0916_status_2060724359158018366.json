@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2060332068765409695",
+    "created_at": "2026-05-30T14:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060724359158018366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056010581342392320",
+          "start": 0,
+          "username": "Mercyvnv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060724359158018366",
+    "in_reply_to_user_id": "2056010581342392320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060332068765409695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercyvnv 啊？🫪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2060332068765409695",
+        "created_at": "2026-05-30T14:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060724359158018366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056010581342392320",
+              "start": 0,
+              "username": "Mercyvnv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060724359158018366",
+        "in_reply_to_user_id": "2056010581342392320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060332068765409695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvnv 啊？🫪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056010581342392320",
+        "conversation_id": "2060332068765409695",
+        "created_at": "2026-05-29T12:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060332068765409695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060332068765409695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6824,
+          "like_count": 99,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "美金刚+舍曲林可以模拟DXM。\n\n具体剂量未知 建议先从最大量开始尝试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 1063,
+          "like_count": 8989,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 972
+        },
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T13:55:45.000Z",
+        "description": "已老实，互fo私信。出普瑞巴林dpt\n\nenby，💊🔪🩸",
+        "id": "2056010581342392320",
+        "name": "Mercy",
+        "pinned_tweet_id": "2060542679306698925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056010892282851328/okw5X9dJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 226,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 336
+        },
+        "username": "Mercyvnv",
+        "verified": false
+      }
+    ]
+  }
+}

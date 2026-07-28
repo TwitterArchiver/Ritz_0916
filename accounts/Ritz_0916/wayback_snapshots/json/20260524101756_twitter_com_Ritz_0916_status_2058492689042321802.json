@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2058492689042321802",
+    "created_at": "2026-05-24T10:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T11:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058492689042321802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907646836111978498",
+          "start": 3,
+          "username": "z_cloud61300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058492689042321802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058440016242921816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @z_cloud61300: 哦，夏天，你又来到大家身边了，是吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2058492689042321802",
+        "created_at": "2026-05-24T10:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058492689042321802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907646836111978498",
+              "start": 3,
+              "username": "z_cloud61300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058492689042321802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058440016242921816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @z_cloud61300: 哦，夏天，你又来到大家身边了，是吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907646836111978498",
+        "conversation_id": "2058440016242921816",
+        "created_at": "2026-05-24T06:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058440016242921816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058440016242921816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦，夏天，你又来到大家身边了，是吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 1051,
+          "like_count": 8797,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 941
+        },
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T04:10:32.000Z",
+        "description": "我希望你不要死！我希望大家都不要死！我最喜欢《Jose与虎与鱼们》啦！（是日版真人电影哦ദ്ദി)✧）我们可以一起去看这部电影吗？可以吧！要好好地等我哦！（哎呀，这部电影好悲伤，不如我们无所事事地聊上一整天呢！）",
+        "id": "1907646836111978498",
+        "name": "cloud z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998334221237325824/g8PZjcvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 168,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1613
+        },
+        "username": "z_cloud61300",
+        "verified": false
+      }
+    ]
+  }
+}

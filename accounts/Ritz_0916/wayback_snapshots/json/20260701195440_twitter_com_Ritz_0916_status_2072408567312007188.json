@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2072408567312007188",
+    "created_at": "2026-07-01T19:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T20:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072408567312007188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/laki954456/sta…",
+          "end": 121,
+          "expanded_url": "https://twitter.com/laki954456/status/2049143219523354948",
+          "start": 98,
+          "url": "https://t.co/uEOYFmeOVC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072408567312007188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049143219523354948",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Laki，我是小树……你就这样计划着各种方式自杀，我明明知道的。面对朋友企图自杀的场合，我迷茫、纠结、焦虑，到底应该劝说阻止，还是尊重个人选择与命运。事到如今。如果这就是你的自由出口，祝你成功。 https://t.co/uEOYFmeOVC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2049143198589812736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAE4d3agAAo8Ms.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2072408567312007188",
+        "created_at": "2026-07-01T19:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T20:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072408567312007188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/laki954456/sta…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/laki954456/status/2049143219523354948",
+              "start": 98,
+              "url": "https://t.co/uEOYFmeOVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072408567312007188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049143219523354948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Laki，我是小树……你就这样计划着各种方式自杀，我明明知道的。面对朋友企图自杀的场合，我迷茫、纠结、焦虑，到底应该劝说阻止，还是尊重个人选择与命运。事到如今。如果这就是你的自由出口，祝你成功。 https://t.co/uEOYFmeOVC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049143198589812736"
+          ]
+        },
+        "author_id": "1896948222570147840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049143219523354948",
+        "created_at": "2026-04-28T15:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049143219523354948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qthJBLQOrF",
+              "end": 76,
+              "expanded_url": "https://x.com/laki954456/status/2049143219523354948/photo/1",
+              "media_key": "3_2049143198589812736",
+              "start": 53,
+              "url": "https://t.co/qthJBLQOrF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049143219523354948",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 61697,
+          "like_count": 324,
+          "quote_count": 5,
+          "reply_count": 190,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "晚安世界~\n右佐匹克隆63mg+思诺思195mg+50mg地西泮+24mg复方氨酚烷胺片+对乙酰基酚6g https://t.co/qthJBLQOrF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 1093,
+          "like_count": 10050,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1125
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T15:38:36.000Z",
+        "description": "纯发泄负面情绪来的 不用在意的 虽然感觉本来也不会有人在意 生理男心理男 不是可爱的小南娘 取向正常",
+        "id": "1896948222570147840",
+        "location": "Hong Kong",
+        "name": "em？",
+        "pinned_tweet_id": "2043132258459287794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901088265647910913/qHy8PP0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 114,
+          "like_count": 3548,
+          "listed_count": 3,
+          "media_count": 10,
+          "tweet_count": 3361
+        },
+        "url": "",
+        "username": "laki954456",
+        "verified": false
+      }
+    ]
+  }
+}

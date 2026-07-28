@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2080636148242903443",
+    "created_at": "2026-07-24T13:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080639266191983087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1669543422586421248",
+          "start": 0,
+          "username": "Letana358121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080639266191983087",
+    "in_reply_to_user_id": "1669543422586421248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080636148242903443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Letana358121 🥺🤲🏻💙妈妈……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2080635839835770880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_nRcxbkAAYHwM.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2080635938456363008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_nXMKaYAAZM1T.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2080636034656964608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_ncyibEAAr8Jz.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3060,
+        "media_key": "3_2080636103271563264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_ngyJawAA28td.jpg",
+        "width": 4080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2080636148242903443",
+        "created_at": "2026-07-24T13:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080639266191983087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080639266191983087",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080636148242903443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 🥺🤲🏻💙妈妈……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080635839835770880",
+            "3_2080635938456363008",
+            "3_2080636034656964608",
+            "3_2080636103271563264"
+          ]
+        },
+        "author_id": "1669543422586421248",
+        "conversation_id": "2080636148242903443",
+        "created_at": "2026-07-24T12:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080636148242903443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1884587143282171904",
+              "start": 5,
+              "username": "Ritz_0916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W0A4OYL2xy",
+              "end": 39,
+              "expanded_url": "https://x.com/Letana358121/status/2080636148242903443/photo/1",
+              "media_key": "3_2080635839835770880",
+              "start": 16,
+              "url": "https://t.co/W0A4OYL2xy"
+            },
+            {
+              "display_url": "pic.x.com/W0A4OYL2xy",
+              "end": 39,
+              "expanded_url": "https://x.com/Letana358121/status/2080636148242903443/photo/1",
+              "media_key": "3_2080635938456363008",
+              "start": 16,
+              "url": "https://t.co/W0A4OYL2xy"
+            },
+            {
+              "display_url": "pic.x.com/W0A4OYL2xy",
+              "end": 39,
+              "expanded_url": "https://x.com/Letana358121/status/2080636148242903443/photo/1",
+              "media_key": "3_2080636034656964608",
+              "start": 16,
+              "url": "https://t.co/W0A4OYL2xy"
+            },
+            {
+              "display_url": "pic.x.com/W0A4OYL2xy",
+              "end": 39,
+              "expanded_url": "https://x.com/Letana358121/status/2080636148242903443/photo/1",
+              "media_key": "3_2080636103271563264",
+              "start": 16,
+              "url": "https://t.co/W0A4OYL2xy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080636148242903443",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "with @Ritz_0916 https://t.co/W0A4OYL2xy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 1116,
+          "like_count": 10658,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1211
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3530,
+          "following_count": 1564,
+          "like_count": 61658,
+          "listed_count": 7,
+          "media_count": 2417,
+          "tweet_count": 22092
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": true
+      }
+    ]
+  }
+}

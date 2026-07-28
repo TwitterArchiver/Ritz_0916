@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2081498693539381303",
+    "created_at": "2026-07-26T21:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T22:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081498693539381303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2000386018953101312",
+          "start": 3,
+          "username": "MiraOmicronCeti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081498693539381303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062582993273888899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MiraOmicronCeti: 大概应该确实时常回想一下我自己其实确实很可爱也有很多人在乎 我能和在乎我的大家成为更好的朋友 现在很累药品物质各种压力躯体化现实问题都很难处理所以就算只是坚持到了现在我也已经非常厉害了 我还有想要试的妆想要穿的漂亮衣服想见到一起去玩的人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2081498693539381303",
+        "created_at": "2026-07-26T21:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081498693539381303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2000386018953101312",
+              "start": 3,
+              "username": "MiraOmicronCeti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081498693539381303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062582993273888899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MiraOmicronCeti: 大概应该确实时常回想一下我自己其实确实很可爱也有很多人在乎 我能和在乎我的大家成为更好的朋友 现在很累药品物质各种压力躯体化现实问题都很难处理所以就算只是坚持到了现在我也已经非常厉害了 我还有想要试的妆想要穿的漂亮衣服想见到一起去玩的人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000386018953101312",
+        "conversation_id": "2062582993273888899",
+        "created_at": "2026-06-04T17:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062582993273888899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062582993273888899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大概应该确实时常回想一下我自己其实确实很可爱也有很多人在乎 我能和在乎我的大家成为更好的朋友 现在很累药品物质各种压力躯体化现实问题都很难处理所以就算只是坚持到了现在我也已经非常厉害了 我还有想要试的妆想要穿的漂亮衣服想见到一起去玩的人想要尝试的物质 所以今天也要好好活下去！\n晚安！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 1129,
+          "like_count": 10936,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1251
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "name": "ᎷӀᎡᎪ #蒭藁增二",
+        "pinned_tweet_id": "2069076461810794794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052875697958559744/YFtatxSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 246,
+          "like_count": 6470,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 688
+        },
+        "url": "",
+        "username": "MiraOmicronCeti",
+        "verified": false
+      }
+    ]
+  }
+}

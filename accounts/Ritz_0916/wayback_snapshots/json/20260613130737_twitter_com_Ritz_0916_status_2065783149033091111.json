@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065737331802546176"
+      ],
+      "media_source_tweet_id": [
+        "2065737338555351551"
+      ]
+    },
+    "author_id": "1884587143282171904",
+    "conversation_id": "2065783149033091111",
+    "created_at": "2026-06-13T13:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065783149033091111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057729979677548544",
+          "start": 3,
+          "username": "Numiouoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rL2N9BsH5m",
+          "end": 49,
+          "expanded_url": "https://x.com/Numiouoo/status/2065737338555351551/photo/1",
+          "media_key": "3_2065737331802546176",
+          "start": 26,
+          "url": "https://t.co/rL2N9BsH5m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065783149033091111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065737338555351551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouoo: 每日流传出一些糯米哲学 https://t.co/rL2N9BsH5m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 325,
+        "media_key": "3_2065737331802546176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr5KJVaoAAzEyB.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065737331802546176"
+          ],
+          "media_source_tweet_id": [
+            "2065737338555351551"
+          ]
+        },
+        "author_id": "1884587143282171904",
+        "conversation_id": "2065783149033091111",
+        "created_at": "2026-06-13T13:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065783149033091111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057729979677548544",
+              "start": 3,
+              "username": "Numiouoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rL2N9BsH5m",
+              "end": 49,
+              "expanded_url": "https://x.com/Numiouoo/status/2065737338555351551/photo/1",
+              "media_key": "3_2065737331802546176",
+              "start": 26,
+              "url": "https://t.co/rL2N9BsH5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065783149033091111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065737338555351551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouoo: 每日流传出一些糯米哲学 https://t.co/rL2N9BsH5m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065737331802546176"
+          ]
+        },
+        "author_id": "2057729979677548544",
+        "conversation_id": "2065737338555351551",
+        "created_at": "2026-06-13T10:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065737338555351551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rL2N9BsH5m",
+              "end": 35,
+              "expanded_url": "https://x.com/Numiouoo/status/2065737338555351551/photo/1",
+              "media_key": "3_2065737331802546176",
+              "start": 12,
+              "url": "https://t.co/rL2N9BsH5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065737338555351551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 477,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "每日流传出一些糯米哲学 https://t.co/rL2N9BsH5m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 1083,
+          "like_count": 9705,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1069
+        },
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病Sex&Drug&Harm激推🩵互动查成分感兴趣的会互fo🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 861,
+          "like_count": 2246,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1652
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

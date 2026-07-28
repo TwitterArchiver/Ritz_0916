@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078942796204081152"
+      ]
+    },
+    "author_id": "1884587143282171904",
+    "conversation_id": "2078942803485425872",
+    "created_at": "2026-07-19T20:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T21:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078942803485425872"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SK7IhPFrho",
+          "end": 153,
+          "expanded_url": "https://x.com/Ritz_0916/status/2078942803485425872/photo/1",
+          "media_key": "3_2078942796204081152",
+          "start": 130,
+          "url": "https://t.co/SK7IhPFrho"
+        },
+        {
+          "display_url": "x.com/Ritz_0916/stat…",
+          "end": 177,
+          "expanded_url": "https://twitter.com/Ritz_0916/status/2078942567497101725",
+          "start": 154,
+          "url": "https://t.co/D5zyx5JPGH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078942803485425872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078942567497101725",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "希望一切顺利，至少做好自己的事情照顾好自己，让在意我的人不要担心我，一起做一些开心的事情，陪着她抱着她，让她静静地安睡……我为你可以做到的全部，好蠢好简单。\n我对身边的大家还是有价值的对吧，如果轻易死掉，好多人会为我痛苦的话，这样想，就不舍得离开这个世界了。 https://t.co/SK7IhPFrho https://t.co/D5zyx5JPGH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2078942796204081152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNnjdVwaAAAz-9S.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078942796204081152"
+          ]
+        },
+        "author_id": "1884587143282171904",
+        "conversation_id": "2078942803485425872",
+        "created_at": "2026-07-19T20:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078942803485425872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SK7IhPFrho",
+              "end": 153,
+              "expanded_url": "https://x.com/Ritz_0916/status/2078942803485425872/photo/1",
+              "media_key": "3_2078942796204081152",
+              "start": 130,
+              "url": "https://t.co/SK7IhPFrho"
+            },
+            {
+              "display_url": "x.com/Ritz_0916/stat…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/Ritz_0916/status/2078942567497101725",
+              "start": 154,
+              "url": "https://t.co/D5zyx5JPGH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078942803485425872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078942567497101725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "希望一切顺利，至少做好自己的事情照顾好自己，让在意我的人不要担心我，一起做一些开心的事情，陪着她抱着她，让她静静地安睡……我为你可以做到的全部，好蠢好简单。\n我对身边的大家还是有价值的对吧，如果轻易死掉，好多人会为我痛苦的话，这样想，就不舍得离开这个世界了。 https://t.co/SK7IhPFrho https://t.co/D5zyx5JPGH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2078942567497101725",
+        "created_at": "2026-07-19T20:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078942567497101725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078942567497101725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃啊吃睡前的药之前吃了一点pr，本来想抗焦虑睡死过去来着……结果根本睡不着，又做了各种事情，还补了一些pr喝了一点酒，呃呵呵pr神力。\n现在挺舒服也不想睡，可是明天还有事情要做。🥲🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 1114,
+          "like_count": 10439,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1199
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      }
+    ]
+  }
+}

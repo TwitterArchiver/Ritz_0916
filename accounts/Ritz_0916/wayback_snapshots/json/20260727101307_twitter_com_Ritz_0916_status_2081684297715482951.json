@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2081684297715482951",
+    "created_at": "2026-07-27T10:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081684297715482951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2000386018953101312",
+          "start": 3,
+          "username": "MiraOmicronCeti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081684297715482951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081599955203199032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MiraOmicronCeti: 这不是一则定时推文，之后应该也都不是了。\n没按讣告体例写不是死亡炒作，但是被救回来了真的是靠好多好友传话和及时救援，已经心肺停止了硬拉回来，离脑死按分钟算。icu里好可怕又蜂鸣器又打针再也不要去了，诊断之长一格写不下。\n从死人恢复到今天…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1537,
+        "media_key": "3_2081599934458216448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONUHJHbwAAAhrW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2081684297715482951",
+        "created_at": "2026-07-27T10:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081684297715482951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2000386018953101312",
+              "start": 3,
+              "username": "MiraOmicronCeti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081684297715482951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081599955203199032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MiraOmicronCeti: 这不是一则定时推文，之后应该也都不是了。\n没按讣告体例写不是死亡炒作，但是被救回来了真的是靠好多好友传话和及时救援，已经心肺停止了硬拉回来，离脑死按分钟算。icu里好可怕又蜂鸣器又打针再也不要去了，诊断之长一格写不下。\n从死人恢复到今天…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081599934458216448"
+          ]
+        },
+        "author_id": "2000386018953101312",
+        "conversation_id": "2081599955203199032",
+        "created_at": "2026-07-27T04:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081599955203199032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y9TUxGUBdn",
+              "end": 166,
+              "expanded_url": "https://x.com/MiraOmicronCeti/status/2081599955203199032/photo/1",
+              "media_key": "3_2081599934458216448",
+              "start": 143,
+              "url": "https://t.co/Y9TUxGUBdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081599955203199032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2977,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这不是一则定时推文，之后应该也都不是了。\n没按讣告体例写不是死亡炒作，但是被救回来了真的是靠好多好友传话和及时救援，已经心肺停止了硬拉回来，离脑死按分钟算。icu里好可怕又蜂鸣器又打针再也不要去了，诊断之长一格写不下。\n从死人恢复到今天能玩手机了，再也不死了，我现在比谁都想好好活着。 https://t.co/Y9TUxGUBdn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 1128,
+          "like_count": 10960,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1257
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "name": "ᎷӀᎡᎪ #蒭藁增二",
+        "pinned_tweet_id": "2069076461810794794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052875697958559744/YFtatxSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 248,
+          "like_count": 6504,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 693
+        },
+        "url": "",
+        "username": "MiraOmicronCeti",
+        "verified": false
+      }
+    ]
+  }
+}

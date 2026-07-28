@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2056106251118092647",
+    "created_at": "2026-05-19T18:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T19:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056806202986918112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2000386018953101312",
+          "start": 0,
+          "username": "MiraOmicronCeti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056806202986918112",
+    "in_reply_to_user_id": "1884587143282171904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056106251118092647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiraOmicronCeti 妈妈寻找角落小鲨鱼ing..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2056106231237115904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjBuT1bAAAtyMZ.jpg",
+        "width": 1638
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2056106231241281536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjBuT2akAAHUc9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2056106231249723392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjBuT4bYAAbRQj.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1537,
+        "media_key": "3_2056106231249674240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjBuT4aoAA232A.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2056106251118092647",
+        "created_at": "2026-05-19T18:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T19:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056806202986918112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2000386018953101312",
+              "start": 0,
+              "username": "MiraOmicronCeti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056806202986918112",
+        "in_reply_to_user_id": "1884587143282171904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056106251118092647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiraOmicronCeti 妈妈寻找角落小鲨鱼ing..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056106231237115904",
+            "3_2056106231241281536",
+            "3_2056106231249723392",
+            "3_2056106231249674240"
+          ]
+        },
+        "author_id": "1884587143282171904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056106251118092647",
+        "created_at": "2026-05-17T20:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T21:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056106251118092647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2000386018953101312",
+              "start": 0,
+              "username": "MiraOmicronCeti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wsRUZegmdX",
+              "end": 91,
+              "expanded_url": "https://x.com/Ritz_0916/status/2056106251118092647/photo/1",
+              "media_key": "3_2056106231237115904",
+              "start": 68,
+              "url": "https://t.co/wsRUZegmdX"
+            },
+            {
+              "display_url": "pic.x.com/wsRUZegmdX",
+              "end": 91,
+              "expanded_url": "https://x.com/Ritz_0916/status/2056106251118092647/photo/1",
+              "media_key": "3_2056106231241281536",
+              "start": 68,
+              "url": "https://t.co/wsRUZegmdX"
+            },
+            {
+              "display_url": "pic.x.com/wsRUZegmdX",
+              "end": 91,
+              "expanded_url": "https://x.com/Ritz_0916/status/2056106251118092647/photo/1",
+              "media_key": "3_2056106231249723392",
+              "start": 68,
+              "url": "https://t.co/wsRUZegmdX"
+            },
+            {
+              "display_url": "pic.x.com/wsRUZegmdX",
+              "end": 91,
+              "expanded_url": "https://x.com/Ritz_0916/status/2056106251118092647/photo/1",
+              "media_key": "3_2056106231249674240",
+              "start": 68,
+              "url": "https://t.co/wsRUZegmdX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056106251118092647",
+        "in_reply_to_user_id": "2000386018953101312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@MiraOmicronCeti 为了感谢我让她人生中疏通马桶的经验增加了2次，邀请我自费去宜家购物，并通宵剧烈拍打西瓜屋八个键机器。 https://t.co/wsRUZegmdX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 1049,
+          "like_count": 8736,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 932
+        },
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "name": "ᎷӀᎡᎪ #蒭藁增二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052875697958559744/YFtatxSK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 202,
+          "like_count": 5467,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 523
+        },
+        "username": "MiraOmicronCeti",
+        "verified": false
+      }
+    ]
+  }
+}

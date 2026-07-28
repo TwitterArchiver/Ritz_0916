@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2064298241290883494",
+    "created_at": "2026-06-09T13:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064338144007528633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2063169843671793664",
+          "start": 0,
+          "username": "Mercyvxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064338144007528633",
+    "in_reply_to_user_id": "2063169843671793664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064298241290883494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercyvxv 简直就是我妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2064298241290883494",
+        "created_at": "2026-06-09T13:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064338144007528633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064338144007528633",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064298241290883494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 简直就是我妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2064298241290883494",
+        "created_at": "2026-06-09T10:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064298241290883494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064298241290883494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 567,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我家现在对我的主要抗抑郁手段是找风水大师和烧香拜佛 我妈还说又要去弄下祖坟，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 1080,
+          "like_count": 9606,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1054
+        },
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "我复活了。互fo私信 出普瑞dpt",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 165,
+          "like_count": 207,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 47
+        },
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

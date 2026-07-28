@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2057436882460701168",
+    "created_at": "2026-05-21T18:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T19:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057533605224812660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1896510089609297920",
+          "start": 0,
+          "username": "Cheeseduck111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057533605224812660",
+    "in_reply_to_user_id": "1896510089609297920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057436882460701168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheeseduck111 好可爱🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2057436757277474816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI171HlbAAAEQNQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 3840,
+        "media_key": "3_2057436757264883713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI171Hia4AEyhBX.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3840,
+        "media_key": "3_2057436757256548352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI171HgbsAACFzz.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2057436882460701168",
+        "created_at": "2026-05-21T18:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057533605224812660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1896510089609297920",
+              "start": 0,
+              "username": "Cheeseduck111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057533605224812660",
+        "in_reply_to_user_id": "1896510089609297920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057436882460701168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheeseduck111 好可爱🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057436757277474816",
+            "3_2057436757264883713",
+            "3_2057436757256548352"
+          ]
+        },
+        "author_id": "1896510089609297920",
+        "conversation_id": "2057436882460701168",
+        "created_at": "2026-05-21T12:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057436882460701168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3gq9i7qP6j",
+              "end": 50,
+              "expanded_url": "https://x.com/Cheeseduck111/status/2057436882460701168/photo/1",
+              "media_key": "3_2057436757277474816",
+              "start": 27,
+              "url": "https://t.co/3gq9i7qP6j"
+            },
+            {
+              "display_url": "pic.x.com/3gq9i7qP6j",
+              "end": 50,
+              "expanded_url": "https://x.com/Cheeseduck111/status/2057436882460701168/photo/1",
+              "media_key": "3_2057436757264883713",
+              "start": 27,
+              "url": "https://t.co/3gq9i7qP6j"
+            },
+            {
+              "display_url": "pic.x.com/3gq9i7qP6j",
+              "end": 50,
+              "expanded_url": "https://x.com/Cheeseduck111/status/2057436882460701168/photo/1",
+              "media_key": "3_2057436757256548352",
+              "start": 27,
+              "url": "https://t.co/3gq9i7qP6j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057436882460701168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 253,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这一身还不错吧，明天有另一条裙子到了再换一下裙子看看 https://t.co/3gq9i7qP6j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 1051,
+          "like_count": 8750,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 936
+        },
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T10:37:05.000Z",
+        "description": "168/60 hrt：2022.10.3\n05年生人 mtf\n坐标河南驻马店\n🚪58 可+联系方式\n活着的意义是让别人感受到自己不管痛苦或快乐",
+        "id": "1896510089609297920",
+        "name": "jimiling 🍥",
+        "pinned_tweet_id": "2056370088140587488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010906034991480833/wAteIzsP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 94,
+          "like_count": 6099,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1091
+        },
+        "username": "Cheeseduck111",
+        "verified": false
+      }
+    ]
+  }
+}

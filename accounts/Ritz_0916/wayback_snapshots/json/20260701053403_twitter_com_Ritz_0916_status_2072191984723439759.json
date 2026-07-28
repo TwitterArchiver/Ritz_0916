@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2072191661124550771",
+    "created_at": "2026-07-01T05:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T06:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072191984723439759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2000386018953101312",
+          "start": 0,
+          "username": "MiraOmicronCeti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072191984723439759",
+    "in_reply_to_user_id": "2000386018953101312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072191661124550771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiraOmicronCeti 二人就这样痛失小邮票……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072191653843279872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHnVInboAADp-v.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2072191661124550771",
+        "created_at": "2026-07-01T05:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072191984723439759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2000386018953101312",
+              "start": 0,
+              "username": "MiraOmicronCeti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072191984723439759",
+        "in_reply_to_user_id": "2000386018953101312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072191661124550771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiraOmicronCeti 二人就这样痛失小邮票……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072191653843279872"
+          ]
+        },
+        "author_id": "2000386018953101312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2072191661124550771",
+        "created_at": "2026-07-01T05:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072191661124550771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6AcrtS7zR7",
+              "end": 166,
+              "expanded_url": "https://x.com/MiraOmicronCeti/status/2072191661124550771/photo/1",
+              "media_key": "3_2072191653843279872",
+              "start": 143,
+              "url": "https://t.co/6AcrtS7zR7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072191661124550771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雨果说，全世界流通的十四亿金子每年要磨去损耗十四分之一，一百万黄金化作灰尘飞扬飘荡，变成轻得能够呼吸的原子，这种吸入剂像重担压在人的良心上，跟灵魂起了化学作用，使富人变得傲慢，穷人变得凶狠。\n我说，有半片lsd被风卷到房间不知道哪个角落里了，毒虫因此变得癫狂而抓耳挠腮，不甘心得要死。 https://t.co/6AcrtS7zR7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 1090,
+          "like_count": 10019,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1121
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "name": "ᎷӀᎡᎪ #蒭藁增二",
+        "pinned_tweet_id": "2070876793494708725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052875697958559744/YFtatxSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 238,
+          "like_count": 6255,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 635
+        },
+        "url": "",
+        "username": "MiraOmicronCeti",
+        "verified": false
+      }
+    ]
+  }
+}

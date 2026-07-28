@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2072409899867459728",
+    "created_at": "2026-07-02T17:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T18:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072731622617788533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "985370178929045504",
+          "start": 0,
+          "username": "jYiCHRgvKnfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072731622617788533",
+    "in_reply_to_user_id": "985370178929045504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072679493257543701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jYiCHRgvKnfu 好的🥺🥺谢谢老大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2072409899867459728",
+        "created_at": "2026-07-02T17:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072731622617788533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "985370178929045504",
+              "start": 0,
+              "username": "jYiCHRgvKnfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072731622617788533",
+        "in_reply_to_user_id": "985370178929045504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072679493257543701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jYiCHRgvKnfu 好的🥺🥺谢谢老大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "985370178929045504",
+        "conversation_id": "2072409899867459728",
+        "created_at": "2026-07-02T13:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072679493257543701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1884587143282171904",
+              "start": 0,
+              "username": "Ritz_0916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072679493257543701",
+        "in_reply_to_user_id": "1884587143282171904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072409899867459728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ritz_0916 你直接说，你吃了药容易早醒，想开长效安眠药就可以了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 1099,
+          "like_count": 10125,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1142
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-15T04:12:12.000Z",
+        "description": "当朋友圈发，发点喜欢的，od，mtf，自残，风景，美食，abdl，都会有，人活这一辈子最重要的是开心",
+        "id": "985370178929045504",
+        "name": "卖橘子的小埋🍊",
+        "pinned_tweet_id": "2012924635449270450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061106688607043584/Jj9mD3tP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 263,
+          "like_count": 50,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "jYiCHRgvKnfu",
+        "verified": false
+      }
+    ]
+  }
+}

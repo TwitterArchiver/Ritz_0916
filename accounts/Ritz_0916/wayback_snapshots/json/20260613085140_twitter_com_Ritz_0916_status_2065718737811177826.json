@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2065631382127419732",
+    "created_at": "2026-06-13T08:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065718737811177826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1547950839280439296",
+          "start": 0,
+          "username": "jiangdadianshen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065718737811177826",
+    "in_reply_to_user_id": "1547950839280439296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065631382127419732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangdadianshen 美丽MINGMING🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2002,
+        "media_key": "3_2065631370853146624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqYyaCa4AAQb8t.jpg",
+        "width": 1508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2065631382127419732",
+        "created_at": "2026-06-13T08:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065718737811177826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1547950839280439296",
+              "start": 0,
+              "username": "jiangdadianshen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065718737811177826",
+        "in_reply_to_user_id": "1547950839280439296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065631382127419732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangdadianshen 美丽MINGMING🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065631370853146624"
+          ]
+        },
+        "author_id": "1547950839280439296",
+        "conversation_id": "2065631382127419732",
+        "created_at": "2026-06-13T03:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065631382127419732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkmtFZIULN",
+              "end": 37,
+              "expanded_url": "https://x.com/jiangdadianshen/status/2065631382127419732/photo/1",
+              "media_key": "3_2065631370853146624",
+              "start": 14,
+              "url": "https://t.co/wkmtFZIULN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065631382127419732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1252,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜报我化妆了！！！！！！！ https://t.co/wkmtFZIULN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 1081,
+          "like_count": 9682,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1064
+        },
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T14:27:03.000Z",
+        "description": "鸟在唱歌",
+        "id": "1547950839280439296",
+        "location": "₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "name": "MING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007611709557747713/OoS2OsY__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 407,
+          "like_count": 19059,
+          "listed_count": 0,
+          "media_count": 294,
+          "tweet_count": 2496
+        },
+        "username": "jiangdadianshen",
+        "verified": false
+      }
+    ]
+  }
+}

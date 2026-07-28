@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2071501679212855766",
+    "created_at": "2026-06-29T13:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T14:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071581043245887748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1912916776519954432",
+          "start": 0,
+          "username": "liu_lu43456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071581043245887748",
+    "in_reply_to_user_id": "1912916776519954432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071501679212855766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu_lu43456 同学咋这么好。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071501671243612160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9zy3IagAA8Dsj.jpg",
+        "width": 878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2071501679212855766",
+        "created_at": "2026-06-29T13:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071581043245887748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1912916776519954432",
+              "start": 0,
+              "username": "liu_lu43456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071581043245887748",
+        "in_reply_to_user_id": "1912916776519954432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071501679212855766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu_lu43456 同学咋这么好。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071501671243612160"
+          ]
+        },
+        "author_id": "1912916776519954432",
+        "conversation_id": "2071501679212855766",
+        "created_at": "2026-06-29T07:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071501679212855766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uw0KJib70S",
+              "end": 37,
+              "expanded_url": "https://x.com/liu_lu43456/status/2071501679212855766/photo/1",
+              "media_key": "3_2071501671243612160",
+              "start": 14,
+              "url": "https://t.co/uw0KJib70S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071501679212855766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 899,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我喂点，我不报警，我爱吃 https://t.co/uw0KJib70S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 1090,
+          "like_count": 9940,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1108
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T17:11:35.000Z",
+        "description": "🟪MBTI:INTP-T🟣/5w4🧬/处女座♍/MtX🏳️‍⚧️/给点钱钱给我钱/平等歧视所有人/禁止政治讨论吵架/✟昇天✟平易近人/当我好友吧💗/聊天消失/难主动/行星小鹿，游荡宇宙/",
+        "id": "1912916776519954432",
+        "location": "石家庄市",
+        "name": "Gyouboshi小鹿＃毕宿五",
+        "pinned_tweet_id": "2032181190757634518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065994757302566912/A2aCzvVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 148,
+          "like_count": 442,
+          "listed_count": 3,
+          "media_count": 402,
+          "tweet_count": 2653
+        },
+        "url": "",
+        "username": "liu_lu43456",
+        "verified": false
+      }
+    ]
+  }
+}

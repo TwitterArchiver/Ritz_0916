@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2063304116269666359",
+    "created_at": "2026-06-06T17:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063316164089123234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047687133708599296",
+          "start": 0,
+          "username": "themaniachan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063316164089123234",
+    "in_reply_to_user_id": "2047687133708599296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063304116269666359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@themaniachan 好孩子！🥰如此美丽，我摸摸你……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063304113237250048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJUKL0b0AASsZX.jpg",
+        "width": 1535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2063304116269666359",
+        "created_at": "2026-06-06T17:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063316164089123234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047687133708599296",
+              "start": 0,
+              "username": "themaniachan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063316164089123234",
+        "in_reply_to_user_id": "2047687133708599296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063304116269666359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@themaniachan 好孩子！🥰如此美丽，我摸摸你……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063304113237250048"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2063304116269666359",
+        "created_at": "2026-06-06T16:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063304116269666359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 39,
+              "start": 25,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 48,
+              "start": 42,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 63,
+              "start": 51,
+              "tag": "病み垢女子と繫がりたい"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "地雷系"
+            },
+            {
+              "end": 81,
+              "start": 69,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 101,
+              "start": 82,
+              "tag": "雰囲気１ｍｍでもいいと思ったらいいね"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SbVK8OGmAw",
+              "end": 125,
+              "expanded_url": "https://x.com/themaniachan/status/2063304116269666359/photo/1",
+              "media_key": "3_2063304113237250048",
+              "start": 102,
+              "url": "https://t.co/SbVK8OGmAw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063304116269666359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 227,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不会乱丢烟头的我是乖孩子...\n#自撮り界隈\n #自撮り界隈さんと繋がりたい  \n#病み垢女子  \n#病み垢女子と繫がりたい\n#地雷系\n#地雷系さんと繋がりたい\n#雰囲気１ｍｍでもいいと思ったらいいね https://t.co/SbVK8OGmAw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 1082,
+          "like_count": 9360,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1014
+        },
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2049167654330810563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055654386236526592/5zxBgcNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 160,
+          "like_count": 675,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 506
+        },
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}

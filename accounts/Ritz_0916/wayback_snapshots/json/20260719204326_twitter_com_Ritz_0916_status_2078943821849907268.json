@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2078819387998683538",
+    "created_at": "2026-07-19T20:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T21:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078943821849907268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1395031782014205953",
+          "start": 0,
+          "username": "komacyan_zZ"
+        },
+        {
+          "end": 21,
+          "id": "1805531183121580034",
+          "start": 13,
+          "username": "heiqiia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078943821849907268",
+    "in_reply_to_user_id": "1395031782014205953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078819387998683538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@komacyan_zZ @heiqiia 水色好耶！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078819381451313153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlzNp-aUAEogLw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2078819387998683538",
+        "created_at": "2026-07-19T20:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078943821849907268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1395031782014205953",
+              "start": 0,
+              "username": "komacyan_zZ"
+            },
+            {
+              "end": 21,
+              "id": "1805531183121580034",
+              "start": 13,
+              "username": "heiqiia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078943821849907268",
+        "in_reply_to_user_id": "1395031782014205953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078819387998683538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@komacyan_zZ @heiqiia 水色好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078819381451313153"
+          ]
+        },
+        "author_id": "1395031782014205953",
+        "conversation_id": "2078819387998683538",
+        "created_at": "2026-07-19T12:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078819387998683538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805531183121580034",
+              "start": 1,
+              "username": "heiqiia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J13vCjinBH",
+              "end": 51,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2078819387998683538/photo/1",
+              "media_key": "3_2078819381451313153",
+              "start": 28,
+              "url": "https://t.co/J13vCjinBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078819387998683538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和@heiqiia 一起逛的谷子店，还o大了，水色好耶 https://t.co/J13vCjinBH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 1115,
+          "like_count": 10448,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1200
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T15:01:25.000Z",
+        "description": "躁うつ病 / JLPT-N2 / 日常垢 / フォロバをご希望の方はDMお願いします /懦弱是无形的怪物 @MoeQike",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "MoeQike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "komacyan.moe",
+                "end": 23,
+                "expanded_url": "https://komacyan.moe",
+                "start": 0,
+                "url": "https://t.co/xocU8WkTN7"
+              }
+            ]
+          }
+        },
+        "id": "1395031782014205953",
+        "location": "キミのとなり",
+        "name": "小鞠",
+        "pinned_tweet_id": "2062786263774855222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999378139898875904/xoF2Xocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3160,
+          "following_count": 761,
+          "like_count": 15370,
+          "listed_count": 10,
+          "media_count": 1703,
+          "tweet_count": 7708
+        },
+        "url": "https://t.co/xocU8WkTN7",
+        "username": "komacyan_zZ",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-25T09:19:31.000Z",
+        "description": "CN-黑峠(touge)/20 ↓/ゆり/maimai/ Procreate \n推しMU 004 🐝/reimuu 左右無差/欢迎同好互fo",
+        "id": "1805531183121580034",
+        "location": "天国",
+        "name": "touge",
+        "pinned_tweet_id": "2046689795255185528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046699754676264960/iwTtD_cx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 65,
+          "like_count": 390,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "heiqiia",
+        "verified": false
+      }
+    ]
+  }
+}

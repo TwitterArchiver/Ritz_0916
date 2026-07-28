@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2072219297183940814",
+    "created_at": "2026-07-01T19:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T20:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072409491874976171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748531675573964800",
+          "start": 0,
+          "username": "dingansich8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072409491874976171",
+    "in_reply_to_user_id": "1748531675573964800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072219593838620944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dingansich8964 这个人就这样在意字体美观。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2072219297183940814",
+        "created_at": "2026-07-01T19:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T20:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072409491874976171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748531675573964800",
+              "start": 0,
+              "username": "dingansich8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072409491874976171",
+        "in_reply_to_user_id": "1748531675573964800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072219593838620944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dingansich8964 这个人就这样在意字体美观。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748531675573964800",
+        "conversation_id": "2072219297183940814",
+        "created_at": "2026-07-01T07:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072219593838620944"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2072219593838620944",
+        "in_reply_to_user_id": "1748531675573964800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072219297183940814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "關鍵是字很醜（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 1093,
+          "like_count": 10056,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1128
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T02:23:53.000Z",
+        "description": "仕事中，癱。會發一些枯燥的日常。叫我物物就好。在國外工作。看動漫，健身，填词，聽古典樂。喜欢烹飪、園藝、最近还在看谢林。喜歡發牢騷，碎碎唸。「だって、私、追いかけるのが好きなんだもの。」電報@DINGANSICH648",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 95,
+                "username": "DINGANSICH648"
+              }
+            ]
+          }
+        },
+        "id": "1748531675573964800",
+        "name": "物凝主體",
+        "pinned_tweet_id": "1945457173599072557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984133882594402304/iQ-0FrZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 70,
+          "like_count": 38303,
+          "listed_count": 13,
+          "media_count": 1265,
+          "tweet_count": 11580
+        },
+        "url": "",
+        "username": "dingansich8964",
+        "verified": false
+      }
+    ]
+  }
+}

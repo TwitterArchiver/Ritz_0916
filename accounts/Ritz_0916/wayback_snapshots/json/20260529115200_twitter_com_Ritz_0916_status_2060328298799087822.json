@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2060030680768426300",
+    "created_at": "2026-05-29T11:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060328298799087822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987868389709422593",
+          "start": 0,
+          "username": "ruki52621534059"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060328298799087822",
+    "in_reply_to_user_id": "1987868389709422593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060030680768426300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruki52621534059 小时……摸摸🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2060030680768426300",
+        "created_at": "2026-05-29T11:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060328298799087822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987868389709422593",
+              "start": 0,
+              "username": "ruki52621534059"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060328298799087822",
+        "in_reply_to_user_id": "1987868389709422593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060030680768426300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruki52621534059 小时……摸摸🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987868389709422593",
+        "conversation_id": "2060030680768426300",
+        "created_at": "2026-05-28T16:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060030680768426300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060030680768426300",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我流了好多眼泪，我好像对幸福过敏，明明应该开心才对，我不知道怎么了也不知道该怎么办了，就算是我也会遇到这种事情吗？就算是我。当梦中的事情出现时我真的不知道该怎么办了呢，好不安。\n似乎又有什么要变了，这次会是好结局吗？\n\n昨日見た夢の続きはどこへ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 1059,
+          "like_count": 8955,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 969
+        },
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T13:02:21.000Z",
+        "description": "今は愛を探すよ、もともと私を愛するようきみたち人。 可以叫我人类或者ヒト。 重力系顺男| 阴暗系 | 友跨丨消肿且老资历 | 中文 English 日本語  |傻逼 |INFP | ADHD| 亚文化 二次元 视觉系 摇滚 音游 文艺 地偶 说唱 电子音乐 大好き | \n来这里是为了乱说话，看萌萌的东西和交朋友的！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/demon74844",
+                "end": 23,
+                "expanded_url": "https://ngl.link/demon74844",
+                "start": 0,
+                "url": "https://t.co/E0GfgZDTgS"
+              }
+            ]
+          }
+        },
+        "id": "1987868389709422593",
+        "location": "大海深处没有阳光的地方",
+        "name": "人間が好き",
+        "pinned_tweet_id": "2049121778166038929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009663639071191040/0KKOfsmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 136,
+          "like_count": 12496,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 1900
+        },
+        "url": "https://t.co/E0GfgZDTgS",
+        "username": "ruki52621534059",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2080975341959733439",
+    "created_at": "2026-07-25T11:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080975341959733439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ritz_0916/stat…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/Ritz_0916/status/2080843395661210084",
+          "start": 66,
+          "url": "https://t.co/fF6EN6Dnmn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080975341959733439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080843395661210084",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "从你原谅我的那天开始，我就释怀了所有事情，接受了这样的自己并慢慢修正，接受了这样的你。怀抱着和你同样的想法。就这样慢慢地走下去吧。 https://t.co/fF6EN6Dnmn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2080975341959733439",
+        "created_at": "2026-07-25T11:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080975341959733439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ritz_0916/stat…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/Ritz_0916/status/2080843395661210084",
+              "start": 66,
+              "url": "https://t.co/fF6EN6Dnmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080975341959733439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080843395661210084",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从你原谅我的那天开始，我就释怀了所有事情，接受了这样的自己并慢慢修正，接受了这样的你。怀抱着和你同样的想法。就这样慢慢地走下去吧。 https://t.co/fF6EN6Dnmn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2080843395661210084",
+        "created_at": "2026-07-25T02:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080843395661210084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《栞》，别名《书签 Shiori》，由 MyGO!!!!! 演唱，收录于《栞》专辑中，《栞》下载，《栞》在线试听，更多栞相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/bbIsQWgU",
+              "end": 54,
+              "expanded_url": "https://163cn.tv/bbIsQWgU",
+              "images": [
+                {
+                  "height": 1500,
+                  "url": "https://pbs.twimg.com/news_img/2080843447452545024/Tl5G1Dk8?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080843447452545024/Tl5G1Dk8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 31,
+              "status": 200,
+              "title": "栞（书签 Shiori） - MyGO!!!!! - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=2060083093&uct2=txMTZyrMHoaCAzLBPvhtUA%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.5.45&sc=wm&tn=",
+              "url": "https://t.co/9lJD8O3QQj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080843395661210084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 366,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享MyGO!!!!!的单曲《栞 (书签 Shiori)》: https://t.co/9lJD8O3QQj (来自@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 1118,
+          "like_count": 10715,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1223
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      }
+    ]
+  }
+}

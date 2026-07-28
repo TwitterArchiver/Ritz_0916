@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2081489159454367796",
+    "created_at": "2026-07-26T21:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T22:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081489159454367796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1820207828931424256",
+          "start": 3,
+          "username": "neko0202002"
+        },
+        {
+          "end": 38,
+          "id": "2060247807693643776",
+          "start": 26,
+          "username": "Illnessjhlw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081489159454367796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081302658942726591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neko0202002: 打扰一下,有人知道@Illnessjhlw的消息吗，服药后从昨天02:20左右无消息，服用了过量药物过了1天13小时无消息，但己吐了出来现在担心是否被强行住院，有知道的麻烦联下我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2081489159454367796",
+        "created_at": "2026-07-26T21:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081489159454367796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1820207828931424256",
+              "start": 3,
+              "username": "neko0202002"
+            },
+            {
+              "end": 38,
+              "id": "2060247807693643776",
+              "start": 26,
+              "username": "Illnessjhlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081489159454367796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081302658942726591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neko0202002: 打扰一下,有人知道@Illnessjhlw的消息吗，服药后从昨天02:20左右无消息，服用了过量药物过了1天13小时无消息，但己吐了出来现在担心是否被强行住院，有知道的麻烦联下我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2081302658942726591",
+        "created_at": "2026-07-26T08:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081302658942726591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "2060247807693643776",
+              "start": 9,
+              "username": "Illnessjhlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081302658942726591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1118,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "打扰一下,有人知道@Illnessjhlw的消息吗，服药后从昨天02:20左右无消息，服用了过量药物过了1天13小时无消息，但己吐了出来现在担心是否被强行住院，有知道的麻烦联下我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 1129,
+          "like_count": 10918,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1248
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 661,
+          "like_count": 2497,
+          "listed_count": 3,
+          "media_count": 2448,
+          "tweet_count": 6501
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T06:32:38.000Z",
+        "description": "这里是小零 11年|od|自伤 LGBT友好 不支持墙内发、带人药物滥用 不涉政 喜欢同类看见会直接回欢迎互fo喵\nhttps://t.co/yL4xHnAqUh 提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youareaweirdo",
+                "end": 81,
+                "expanded_url": "https://ngl.link/youareaweirdo",
+                "start": 58,
+                "url": "https://t.co/yL4xHnAqUh"
+              }
+            ]
+          }
+        },
+        "id": "2060247807693643776",
+        "name": "Illness",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080656404353019904/tL2NlxE0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 147,
+          "like_count": 3699,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 258
+        },
+        "url": "",
+        "username": "Illnessjhlw",
+        "verified": false
+      }
+    ]
+  }
+}

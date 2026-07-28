@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2078985977952186721",
+    "created_at": "2026-07-20T05:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079077623574192466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1395031782014205953",
+          "start": 0,
+          "username": "komacyan_zZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079077623574192466",
+    "in_reply_to_user_id": "1395031782014205953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078985977952186721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@komacyan_zZ 老大这个萌～🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078985971446722560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNoKueEaMAAQfLY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078985971396452352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNoKud4bIAAWMbZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078985971408982016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNoKud7aUAAC6vk.jpg",
+        "width": 1852
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2078985971442532352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNoKueDaQAAn8GM.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2078985977952186721",
+        "created_at": "2026-07-20T05:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079077623574192466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1395031782014205953",
+              "start": 0,
+              "username": "komacyan_zZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079077623574192466",
+        "in_reply_to_user_id": "1395031782014205953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078985977952186721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@komacyan_zZ 老大这个萌～🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078985971446722560",
+            "3_2078985971396452352",
+            "3_2078985971408982016",
+            "3_2078985971442532352"
+          ]
+        },
+        "author_id": "1395031782014205953",
+        "conversation_id": "2078985977952186721",
+        "created_at": "2026-07-19T23:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078985977952186721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一个“清蒸”的汉化组",
+              "display_url": "popipa.org",
+              "end": 158,
+              "expanded_url": "http://popipa.org",
+              "images": [
+                {
+                  "height": 1237,
+                  "url": "https://pbs.twimg.com/news_img/2078985981492097025/ins2_AUA?format=png&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2078985981492097025/ins2_AUA?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 135,
+              "status": 200,
+              "title": "破琵琶生产公社",
+              "unwound_url": "https://popipa.org/",
+              "url": "https://t.co/13D5RsP1jI"
+            },
+            {
+              "display_url": "pic.x.com/Jomf6v2yWZ",
+              "end": 182,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2078985977952186721/photo/1",
+              "media_key": "3_2078985971446722560",
+              "start": 159,
+              "url": "https://t.co/Jomf6v2yWZ"
+            },
+            {
+              "display_url": "pic.x.com/Jomf6v2yWZ",
+              "end": 182,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2078985977952186721/photo/1",
+              "media_key": "3_2078985971396452352",
+              "start": 159,
+              "url": "https://t.co/Jomf6v2yWZ"
+            },
+            {
+              "display_url": "pic.x.com/Jomf6v2yWZ",
+              "end": 182,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2078985977952186721/photo/1",
+              "media_key": "3_2078985971408982016",
+              "start": 159,
+              "url": "https://t.co/Jomf6v2yWZ"
+            },
+            {
+              "display_url": "pic.x.com/Jomf6v2yWZ",
+              "end": 182,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2078985977952186721/photo/1",
+              "media_key": "3_2078985971442532352",
+              "start": 159,
+              "url": "https://t.co/Jomf6v2yWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078985977952186721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "popipa.org",
+                "end": 158,
+                "expanded_url": "http://popipa.org",
+                "start": 135,
+                "url": "https://t.co/CJ9mMYN1Hi"
+              }
+            ]
+          },
+          "text": "【自介条】【求扩】\n你们好可以叫我 小鞠/KomacyaN/泉こしや\n04年产，出没南昌/广州，日常号，尽量同步某神秘平台推文（）\n\n曾任萌娘百科巡查员（好奇我为何被永封可小窗），汉化组POPIPA生产公社成员，参与校对及翻译，参与翻译「安娜贝尔女仆花园」等作品，详见→https://t.co/CJ9mMYN1Hi\n\n很期待与你聊天，几乎无雷点。\nAnime会社尤爱key社，最爱のんのんびより、らき☆すた、石头门、寒蝉、新海诚早期，以及具有争议的无职转生我有点喜欢（）\n20年开始到现在累计番剧数量100+\nGalgame涉猎稍浅，深爱枕社所有和☂️社的晴のちきっと菜のの花びより。\n实体书籍收藏、动画电影改编小说阅读。\njlpt-n3✅   jlpt-n2✅\n音游虽菜但爱玩，舞萌ratingw3，海底谭练习中（）\n\n⚠️你可能雷：我是男娘/酒蒙子/痴迷FPS游戏如：彩虹六号：围攻X/有过极其不光彩的历史/主营推特，欢迎小窗询问id扩列"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2578,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【自介条】【求扩】\n你们好可以叫我 小鞠/KomacyaN/泉こしや\n04年产，出没南昌/广州，日常号，尽量同步某神秘平台推文（）\n\n曾任萌娘百科巡查员（好奇我为何被永封可小窗），汉化组POPIPA生产公社成员，参与校对及翻译，参与翻译「安娜贝尔女仆花园」等作品，详见→https://t.co/13D5RsP1jI https://t.co/Jomf6v2yWZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 1115,
+          "like_count": 10498,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1206
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T15:01:25.000Z",
+        "description": "躁うつ病 / JLPT-N2 / 日常垢 / フォロバをご希望の方はDMお願いします /懦弱是无形的怪物 @MoeQike",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "MoeQike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "komacyan.moe",
+                "end": 23,
+                "expanded_url": "https://komacyan.moe",
+                "start": 0,
+                "url": "https://t.co/xocU8WkTN7"
+              }
+            ]
+          }
+        },
+        "id": "1395031782014205953",
+        "location": "キミのとなり",
+        "name": "小鞠",
+        "pinned_tweet_id": "2078985977952186721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999378139898875904/xoF2Xocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3183,
+          "following_count": 763,
+          "like_count": 15383,
+          "listed_count": 10,
+          "media_count": 1704,
+          "tweet_count": 7719
+        },
+        "url": "https://t.co/xocU8WkTN7",
+        "username": "komacyan_zZ",
+        "verified": true
+      }
+    ]
+  }
+}

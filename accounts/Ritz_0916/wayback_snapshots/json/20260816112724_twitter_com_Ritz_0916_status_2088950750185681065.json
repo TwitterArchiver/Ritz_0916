@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2088950750185681065",
+    "created_at": "2026-08-16T11:27:24.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T12:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088950750185681065"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088950750185681065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "3225mg pr 在马桶上坐了好久，依旧厕所战神。然后社交增强，喔喔现在摇摇晃晃地有动力要收拾东西了，太好，pr治好了我的拖延症。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2088950750185681065",
+        "created_at": "2026-08-16T11:27:24.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088950750185681065"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088950750185681065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3225mg pr 在马桶上坐了好久，依旧厕所战神。然后社交增强，喔喔现在摇摇晃晃地有动力要收拾东西了，太好，pr治好了我的拖延症。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖",
+        "most_recent_tweet_id": "2088950750185681065",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884587143282171904/1774320556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 1122,
+          "like_count": 11414,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1355
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

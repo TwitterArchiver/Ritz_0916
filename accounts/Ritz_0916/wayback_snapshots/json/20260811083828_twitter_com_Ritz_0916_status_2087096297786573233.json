@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087071894994632704",
+        "3_2087071894994604032"
+      ],
+      "media_source_tweet_id": [
+        "2087071908890366151",
+        "2087071908890366151"
+      ]
+    },
+    "author_id": "1884587143282171904",
+    "conversation_id": "2087096297786573233",
+    "created_at": "2026-08-11T08:38:28.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087096297786573233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1983965341865885696",
+          "start": 3,
+          "username": "zudnefukaos"
+        }
+      ],
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/hoodiesfighter",
+          "end": 76,
+          "expanded_url": "https://ngl.link/hoodiesfighter",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2085096561147629570/Kfa77jXj?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2085096561147629570/Kfa77jXj?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 53,
+          "status": 200,
+          "title": "@hoodiesfighter: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/hoodiesfighter",
+          "url": "https://t.co/xgxYkcy3iI"
+        },
+        {
+          "display_url": "pic.x.com/E3ZpCwzsQe",
+          "end": 100,
+          "expanded_url": "https://x.com/zudnefukaos/status/2087071908890366151/photo/1",
+          "media_key": "3_2087071894994632704",
+          "start": 77,
+          "url": "https://t.co/E3ZpCwzsQe"
+        },
+        {
+          "display_url": "pic.x.com/E3ZpCwzsQe",
+          "end": 100,
+          "expanded_url": "https://x.com/zudnefukaos/status/2087071908890366151/photo/1",
+          "media_key": "3_2087071894994604032",
+          "start": 77,
+          "url": "https://t.co/E3ZpCwzsQe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087096297786573233",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087071894994632704"
+      },
+      {
+        "media_key": "3_2087071894994604032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087071908890366151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zudnefukaos: 关于我\n想要遇到更多有意思的人！\n喜欢我的话可以转发ovo\n\n匿名提问箱https://t.co/xgxYkcy3iI https://t.co/E3ZpCwzsQe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087071894994632704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbE1KnbQAAKoYS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087071894994604032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbE1Kna0AAHqXM.jpg",
+        "width": 788
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087071894994632704",
+            "3_2087071894994604032"
+          ]
+        },
+        "author_id": "1983965341865885696",
+        "conversation_id": "2087071908890366151",
+        "created_at": "2026-08-11T07:01:33.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087071908890366151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/hoodiesfighter",
+              "end": 59,
+              "expanded_url": "https://ngl.link/hoodiesfighter",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2085096561147629570/Kfa77jXj?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085096561147629570/Kfa77jXj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "@hoodiesfighter: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/hoodiesfighter",
+              "url": "https://t.co/xgxYkcy3iI"
+            },
+            {
+              "display_url": "pic.x.com/E3ZpCwzsQe",
+              "end": 83,
+              "expanded_url": "https://x.com/zudnefukaos/status/2087071908890366151/photo/1",
+              "media_key": "3_2087071894994632704",
+              "start": 60,
+              "url": "https://t.co/E3ZpCwzsQe"
+            },
+            {
+              "display_url": "pic.x.com/E3ZpCwzsQe",
+              "end": 83,
+              "expanded_url": "https://x.com/zudnefukaos/status/2087071908890366151/photo/1",
+              "media_key": "3_2087071894994604032",
+              "start": 60,
+              "url": "https://t.co/E3ZpCwzsQe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087071908890366151",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087071894994632704"
+          },
+          {
+            "media_key": "3_2087071894994604032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "关于我\n想要遇到更多有意思的人！\n喜欢我的话可以转发ovo\n\n匿名提问箱https://t.co/xgxYkcy3iI https://t.co/E3ZpCwzsQe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087071894994632704",
+            "3_2087071894994604032"
+          ],
+          "media_source_tweet_id": [
+            "2087071908890366151",
+            "2087071908890366151"
+          ]
+        },
+        "author_id": "1884587143282171904",
+        "conversation_id": "2087096297786573233",
+        "created_at": "2026-08-11T08:38:28.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087096297786573233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1983965341865885696",
+              "start": 3,
+              "username": "zudnefukaos"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/hoodiesfighter",
+              "end": 76,
+              "expanded_url": "https://ngl.link/hoodiesfighter",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2085096561147629570/Kfa77jXj?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085096561147629570/Kfa77jXj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 53,
+              "status": 200,
+              "title": "@hoodiesfighter: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/hoodiesfighter",
+              "url": "https://t.co/xgxYkcy3iI"
+            },
+            {
+              "display_url": "pic.x.com/E3ZpCwzsQe",
+              "end": 100,
+              "expanded_url": "https://x.com/zudnefukaos/status/2087071908890366151/photo/1",
+              "media_key": "3_2087071894994632704",
+              "start": 77,
+              "url": "https://t.co/E3ZpCwzsQe"
+            },
+            {
+              "display_url": "pic.x.com/E3ZpCwzsQe",
+              "end": 100,
+              "expanded_url": "https://x.com/zudnefukaos/status/2087071908890366151/photo/1",
+              "media_key": "3_2087071894994604032",
+              "start": 77,
+              "url": "https://t.co/E3ZpCwzsQe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087096297786573233",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087071894994632704"
+          },
+          {
+            "media_key": "3_2087071894994604032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087071908890366151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zudnefukaos: 关于我\n想要遇到更多有意思的人！\n喜欢我的话可以转发ovo\n\n匿名提问箱https://t.co/xgxYkcy3iI https://t.co/E3ZpCwzsQe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖",
+        "most_recent_tweet_id": "2087096297786573233",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884587143282171904/1774320556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 1119,
+          "like_count": 11270,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1326
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T18:33:01.000Z",
+        "description": "健康快乐成长",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoodiesfighter",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hoodiesfighter",
+                "start": 0,
+                "url": "https://t.co/BPA4b2DTYi"
+              }
+            ]
+          }
+        },
+        "id": "1983965341865885696",
+        "is_identity_verified": false,
+        "location": "那里",
+        "most_recent_tweet_id": "2087087799149424656",
+        "name": "k",
+        "pinned_tweet_id": "2087071908890366151",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983965341865885696/1784767348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046428467479330816/abrofo_y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 23,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 259
+        },
+        "url": "https://t.co/BPA4b2DTYi",
+        "username": "zudnefukaos",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

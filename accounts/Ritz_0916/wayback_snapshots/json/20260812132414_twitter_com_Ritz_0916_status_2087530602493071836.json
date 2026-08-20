@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2087530602493071836",
+    "created_at": "2026-08-12T13:24:14.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087530602493071836"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087530602493071836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么又在被家里人拷问。我说了好几遍的事情也是没有被任何人记住啊反过来还是一直在问我。我一直哭说想自己待一会儿也被说说几句话就哭，你总是这样逃避和人社交也不行啊。对啊我就是乌龟，可是我和别人说话都好好的啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2087530602493071836",
+        "created_at": "2026-08-12T13:24:14.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087530602493071836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087530602493071836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么又在被家里人拷问。我说了好几遍的事情也是没有被任何人记住啊反过来还是一直在问我。我一直哭说想自己待一会儿也被说说几句话就哭，你总是这样逃避和人社交也不行啊。对啊我就是乌龟，可是我和别人说话都好好的啊。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖",
+        "most_recent_tweet_id": "2087530602493071836",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884587143282171904/1774320556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 1118,
+          "like_count": 11290,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1335
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087826702865154049",
+        "3_2087826715464880128"
+      ]
+    },
+    "author_id": "1884587143282171904",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087826720925818974",
+    "created_at": "2026-08-13T09:00:54.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T10:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087826720925818974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qCSCk6pwGU",
+          "end": 52,
+          "expanded_url": "https://x.com/Ritz_0916/status/2087826720925818974/photo/1",
+          "media_key": "3_2087826702865154049",
+          "start": 29,
+          "url": "https://t.co/qCSCk6pwGU"
+        },
+        {
+          "display_url": "pic.x.com/qCSCk6pwGU",
+          "end": 52,
+          "expanded_url": "https://x.com/Ritz_0916/status/2087826720925818974/photo/1",
+          "media_key": "3_2087826715464880128",
+          "start": 29,
+          "url": "https://t.co/qCSCk6pwGU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087826720925818974",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087826702865154049"
+      },
+      {
+        "media_key": "3_2087826715464880128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜报：遇到GAY了。\n悲报：我把昨天画的月上漫步误删了。 https://t.co/qCSCk6pwGU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1158,
+        "media_key": "3_2087826702865154049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlzUxDaQAEWsaT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 453,
+        "media_key": "3_2087826715464880128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlzVf_a0AACl9o.jpg",
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087826702865154049",
+            "3_2087826715464880128"
+          ]
+        },
+        "author_id": "1884587143282171904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087826720925818974",
+        "created_at": "2026-08-13T09:00:54.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087826720925818974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCSCk6pwGU",
+              "end": 52,
+              "expanded_url": "https://x.com/Ritz_0916/status/2087826720925818974/photo/1",
+              "media_key": "3_2087826702865154049",
+              "start": 29,
+              "url": "https://t.co/qCSCk6pwGU"
+            },
+            {
+              "display_url": "pic.x.com/qCSCk6pwGU",
+              "end": 52,
+              "expanded_url": "https://x.com/Ritz_0916/status/2087826720925818974/photo/1",
+              "media_key": "3_2087826715464880128",
+              "start": 29,
+              "url": "https://t.co/qCSCk6pwGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087826720925818974",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087826702865154049"
+          },
+          {
+            "media_key": "3_2087826715464880128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜报：遇到GAY了。\n悲报：我把昨天画的月上漫步误删了。 https://t.co/qCSCk6pwGU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "is_identity_verified": false,
+        "location": "瑞瓦肖",
+        "most_recent_tweet_id": "2087826720925818974",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884587143282171904/1774320556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 1129,
+          "like_count": 11331,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1341
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

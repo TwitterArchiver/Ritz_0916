@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1884587143282171904",
+    "conversation_id": "2085149760349196467",
+    "created_at": "2026-08-06T11:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T12:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085332943879426460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824037197210898432",
+          "start": 0,
+          "username": "ivan23389"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085332943879426460",
+    "in_reply_to_user_id": "1824037197210898432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085275389640024069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivan23389 那我呢，你最后给我打电话，说你在烧炭自杀，警察会不会盘问我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884587143282171904",
+        "conversation_id": "2085149760349196467",
+        "created_at": "2026-08-06T11:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085332943879426460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824037197210898432",
+              "start": 0,
+              "username": "ivan23389"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085332943879426460",
+        "in_reply_to_user_id": "1824037197210898432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085275389640024069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivan23389 那我呢，你最后给我打电话，说你在烧炭自杀，警察会不会盘问我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824037197210898432",
+        "conversation_id": "2085149760349196467",
+        "created_at": "2026-08-06T08:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085275389640024069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1884587143282171904",
+              "start": 0,
+              "username": "Ritz_0916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085275389640024069",
+        "in_reply_to_user_id": "1884587143282171904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085149760349196467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ritz_0916 可你当时收完钱也说过会尊重我的选择….."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-29T13:00:01.000Z",
+        "description": "Rei | 05女 | 双相 | OD&SH | 欢迎互fo | 如果自来熟冒犯到你真的很抱歉... |温良平和，欢迎所有人，谢谢你们呀ww | 希望大家都能够创造更多的平静和幸福......🩵",
+        "id": "1884587143282171904",
+        "location": "瑞瓦肖",
+        "name": "Rei",
+        "pinned_tweet_id": "2027834640397176986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036272592022282240/Wi2CQD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 1121,
+          "like_count": 11191,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1315
+        },
+        "url": "",
+        "username": "Ritz_0916",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T10:55:45.000Z",
+        "description": "=Tomorin_燈/09抑郁od蛆/双向\n友好一切/同类互fo/自杀三次被救\n我的人生像假烟一样受万人唾弃",
+        "id": "1824037197210898432",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "確信犯（淡推",
+        "pinned_tweet_id": "2084298010809540640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079288288435900416/CSOt7JXF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 461,
+          "like_count": 1458,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 861
+        },
+        "url": "",
+        "username": "ivan23389",
+        "verified": false
+      }
+    ]
+  }
+}
